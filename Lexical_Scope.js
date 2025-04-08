@@ -1,4 +1,4 @@
-// Lexical scope (state)in javaScript is a concept to determine the physical sturcture and scope of variable
+// Lexical scope (static state) in javaScript is a concept to determine the physical sturcture and scope of variable
 // current scope finds from its imidiate and parent and a scope of chain gets formed.
 
 console.log("a", a) //Undefined because its in memory of GEC where it is defined but value is not initialized yet
